@@ -1,6 +1,17 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+/*
+Questão 3 (25 pontos) – Controle de Tensão de Motores
+A temperatura de operação de mancais deve permanecer abaixo de 95 oC.
+Faça um programa que:
+1. Leia quantas medições serão feitas;
+2. Para cada temperatura medida:
+• Exiba “Seguro” se T < 95;
+• Exiba “Risco moderado” se 95 ≤ T ≤ 110;
+• Exiba “Risco crítico – desligar” se T > 110;
+3. Conte quantas medições caíram em cada categoria;
+4. Ao final, exiba o resumo das classificações.
+*/
 int main()
 {
     int m, qtd=0, qtda=0, qtdb=0;

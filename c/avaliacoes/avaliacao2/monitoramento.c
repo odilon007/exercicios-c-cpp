@@ -1,6 +1,18 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+/*
+Questão 1 (25 pontos) – Monitoramento de Níveis de Tanque
+Um sensor registra, em intervalos regulares, a vazão de fluido em uma tubulação (em
+L/min). A operação é considerada estável quando a vazão permanece entre 450 e 520
+L/min.
+Crie um programa em C que:
+• Pergunte quantas medições serão inseridas;
+• Conte:
+o quantas leituras ficaram dentro da faixa estável,
+o quantas ficaram acima e quantas abaixo;
+• Calcule a média da vazão registrada;
+• Exiba também a maior e a menor vazão medidas.
+*/
 int main()
 {
     int vazao;
