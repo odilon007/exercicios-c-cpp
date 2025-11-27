@@ -1,15 +1,19 @@
-# Questão 3 – Simulador de marcha (com switch-case)
+# Questão 4 – Calculadora de torque interativa
 
-Em um simulador de carro, o usuário informa a marcha atual (inteiro de 0 a 6), e o sistema
-deve exibir a mensagem correspondente:
-- 0 – “Ponto morto.”
-- 1 – “Primeira marcha – força máxima!”
-- 2 – “Segunda marcha – aceleração suave.”
-- 3 – “Terceira marcha – velocidade média.”
-- 4 – “Quarta marcha – ótimo desempenho.”
-- 5 – “Quinta marcha – economia de combustível.”
-- 6 – “Ré – cuidado!”
-Outro valor – “Marcha inválida.”
+O torque T (em N·m) é calculado por: T = F × r, onde F é a força (N) e r é o raio (m).
+O programa deve:
+1. Pedir que o usuário informe o tipo de ferramenta utilizada (1 = chave pequena, 2 = chave
+média, 3 = chave grande).
+2. Ler o valor da força aplicada.
+3. Usar switch-case para definir o raio:
+- Pequena → 0.10 m
+- Média → 0.25 m
+- Grande → 0.40 m
+4. Calcular o torque.
+5. Usar if-else aninhado para classificar:
+- T < 10: “Torque baixo.”
+- 10 ≤ T ≤ 25: “Torque adequado.”
+- T > 25: “Torque excessivo – risco de dano!”
 Escreva um programa em C que implementa esta lógica.
 ### C99
 ```c

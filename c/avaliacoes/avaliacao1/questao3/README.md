@@ -11,7 +11,7 @@ deve exibir a mensagem correspondente:
 - 6 – “Ré – cuidado!”
 Outro valor – “Marcha inválida.”
 Escreva um programa em C que implementa esta lógica.
-### C99
+### C23
 ```c
 #include <stdio.h>
 #include <stdlib.h>

@@ -1,9 +1,21 @@
+# Questão 4 (25 pontos)
 
+Implemente um simulador de movimento retilíneo uniforme.
+
+O usuário entra com:
+- distância total (em metros)
+- tempo total (em segundos)
+O sistema deve:
+- Calcular a velocidade média
+- Simular a movimentação exibindo a posição a cada segundo, do tempo 0 até o tempo final
+
+Exemplo:
+tempo: 0s -> posição: 0m
+tempo: 1s -> posição: Xm
+(...)
+```c
 #include <stdio.h>
-/*
-(2,5 pontos) Faça um programa em C que deve ler os minutos e os segundos da volta de dois pilotos de Fórmula
-1 e indicar qual deles foi o mais rápido.
-*/
+
 int main()
 {
     int minutos1, segundos1;
@@ -27,3 +39,4 @@ int main()
     
     return 0;
 }
+```

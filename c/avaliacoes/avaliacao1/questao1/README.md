@@ -12,7 +12,7 @@ Com base no valor lido (em °C), o sistema deve tomar decisões conforme as faix
 Escreva um programa em C que leia a temperatura e mostre a mensagem correspondente
 usando estruturas if-else aninhadas.
 
-### C99
+### C23
 ```c
 #include <stdio.h>
 #include <stdlib.h>

@@ -1,8 +1,10 @@
+# Questão 3 (2,5 pontos)
 
+Fazer um programa que leia um símbolo de operação do usuário (+, -, / ou *) e dois números
+reais. O programa deve retornar o resultado da operação recebida sobre estes dois números.
+```c
 #include <stdio.h>
-/*
-(2,5 pontos) Fazer um programa que leia um símbolo de operação do usuário (+, -, / ou *) e dois números
-reais. O programa deve retornar o resultado da operação recebida sobre estes dois números.*/
+
 int main()
 {
     char op;
@@ -33,3 +35,4 @@ int main()
     
     return 0;
 }
+```

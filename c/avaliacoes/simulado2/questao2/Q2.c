@@ -1,19 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-/*
-Você deve simular um painel de comandos de um torno mecânico. O operador digita
-comandos até o caractere 'F':
-- 'I' = iniciar rotação
-- 'P' = pausar
-- 'A' = ajustar velocidade
-- 'F' = finalizar
-Seu programa deve:
-- Contar cada tipo de comando
-- Verificar se houve dois comandos iguais consecutivos (ex: A A)
-- Ao final, exibir:
-- Totais de cada comando
-- Se houve comandos repetidos em sequência
-*/
 
 int main()
 {

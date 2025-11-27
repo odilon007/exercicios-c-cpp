@@ -10,7 +10,7 @@ aninhado:
 - Maior que 51,5: “Peça rejeitada – grande demais.”
 
 Faça um programa que leia o diâmetro e imprima a classificação.
-### C99
+### C23
 ```c
 #include <stdio.h>
 #include <stdlib.h>

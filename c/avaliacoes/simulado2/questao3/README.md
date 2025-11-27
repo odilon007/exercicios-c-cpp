@@ -1,6 +1,5 @@
+# Questão 3 (25 pontos)
 
-#include <stdio.h>
-/*
 Faça um programa que leia n pares de dados de peças:
 - torque máximo suportado (Nm)
 - torque aplicado (Nm)
@@ -8,7 +7,11 @@ Para cada peça, indique:
 - “APROVADA” se o torque aplicado for ≤ 95% do limite
 - “SOBRERISCO” se entre 95% e 100%
 - “REPROVADA” se ultrapassar 100%
-*/
+
+Mostre ao final a quantidade em cada categoria e o índice de aprovação (%).
+```c
+#include <stdio.h>
+
 int main()
 {
     float tmax, t;
@@ -47,3 +50,4 @@ int main()
     
     return 0;
 }
+```

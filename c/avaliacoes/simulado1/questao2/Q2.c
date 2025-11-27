@@ -1,10 +1,5 @@
-
 #include <stdio.h>
-/*
-(2,5 pontos) Escreva um programa que receba a base e a altura de um retângulo e determine se o
-perímetro deste retângulo (soma dos lados) é maior que a sua área (base * altura) ou não. Por exemplo, a
-área de um retângulo com base 5 e altura 4 é maior que o seu perímetro.
-*/
+
 int main()
 {
     float b, h;
