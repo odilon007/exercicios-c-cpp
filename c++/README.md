@@ -7,18 +7,11 @@ O objetivo é desenvolver lógica, trabalhar com programação orientada a objet
 
 Os exercícios incluem temas como:
 
-- 🔧 Estruturas de controle (if, switch, loops)
-
-- 🧮 Operações aritméticas
-
-- 📦 Vetores, matrizes e arrays
-
+- 🔧 [Estruturas de controle](./flowControl/README.md) (if, switch, loops)
+- 🧮 [Operações aritméticas](./introducion/README.md)
+- 📦 [Vetores, matrizes e arrays](./arrays/README.md)
 - 🧵 Strings e manipulação de texto
-
-- 🧱 Funções e modularização
-
+- 🧱 [Funções e modularização](./functions/README.md)
 - 🏗️ Programação Orientada a Objetos (Classes, Objetos, Métodos)
-
 - 🧰 STL (vector, map, queue, stack, algorithms, etc.)
-
 - 📚 Arquivos (fstream)
