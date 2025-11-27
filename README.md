@@ -13,6 +13,14 @@ Este repositório contém soluções para exercícios de programação em **C** 
 - Manipulação de arquivos
 - Entre outros tópicos
 
+## 🗂️ Resumo das Línguas
+
+| Pasta | Linguagem | Descrição | Status |
+|-------|-----------|-----------|--------|
+| [**c/**](./c/) | C | Exercícios básicos e intermediários | 🟢 Ativo |
+| [**c++/**](./c++/) | C++ | Exercícios, POO e STL | 🟢 Ativo |
+
+
 ## 🛠️ Como compilar e executar os códigos
 
 ### 🔹 Para programas em C
