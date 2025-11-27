@@ -15,6 +15,6 @@ Aqui você encontrará exercícios envolvendo:
 - 📚 Manipulação de arquivos (quando aplicável)
 
 | Exercicios | Simulados | Avaliações | Notas |
-|---|---|---|
-| [**Exercicios**](./exercicios/README.md) | [**Simulado 1**](./simulados/simulado1/README.md) | [**1° avaliação**](./avaliacoes/avaliacao1/README.md) | 
-| [**Exercicios**](./exercicios/README.md) | [**Simulado 2**](./simulados/simulado2/README.md) | [**2° avaliação**](./avaliacoes/avaliacao2/README.md) | 
+|---|---|---|---|
+| [**Exercicios**](./exercicios/README.md) | [**Simulado 1**](./simulados/simulado1/README.md) | [**1° avaliação**](./avaliacoes/avaliacao1/README.md) | 100 |
+| [**Exercicios**](./exercicios/README.md) | [**Simulado 2**](./simulados/simulado2/README.md) | [**2° avaliação**](./avaliacoes/avaliacao2/README.md) | ? |
