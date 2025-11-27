@@ -1,4 +1,5 @@
 # Exercicios
 
 * [Introdução](./introducao/main.c)
-* [Condicionais](./condicionais/ex001.c)
+* [Condicionais](./condicionais/README.md)
+* [Laço de Repetição](./lacoDeRepeticao/README.md)

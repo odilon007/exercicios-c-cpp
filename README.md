@@ -17,8 +17,8 @@ Este repositório contém soluções para exercícios de programação em **C** 
 
 | Pasta | Linguagem | Descrição | Status |
 |-------|-----------|-----------|--------|
-| [**c/**](./c/) | C | Exercícios básicos e intermediários | 🟢 Ativo |
-| [**c++/**](./c++/) | C++ | Exercícios, POO e STL | 🟢 Ativo |
+| [**c/**](./c/README.md) | C | Exercícios básicos e intermediários | 🟢 Ativo |
+| [**c++/**](./c++/README.md) | C++ | Exercícios, POO e STL | 🟢 Ativo |
 
 
 ## 🛠️ Como compilar e executar os códigos

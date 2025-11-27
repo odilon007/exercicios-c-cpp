@@ -1,17 +1,5 @@
-
 #include <stdio.h>
-/*
-Implemente um simulador de movimento retilíneo uniforme.
-O usuário entra com:
-- distância total (em metros)
-- tempo total (em segundos)
-O sistema deve:
-- Calcular a velocidade média
-- Simular a movimentação exibindo a posição a cada segundo, do tempo 0 até o tempo final
-Exemplo:
-tempo: 0s -> posição: 0m
-tempo: 1s -> posição: Xm
-*/
+
 int main()
 {
     float metros, vm;

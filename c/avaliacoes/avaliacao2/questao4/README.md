@@ -15,7 +15,6 @@ número 14 visto que termina com o algarismo 4, que foi o número escolhido.
 Dica: para verificar se um número é múltiplo do número escolhido, use o operador de resto
 da divisão (%). Para verificar se um número termina com um dado algarismo, utilize o
 mesmo operador com relação ao valor 10 (14%10 = 4).
-### C99
 ```c
 #include <stdio.h>
 #include <stdlib.h>

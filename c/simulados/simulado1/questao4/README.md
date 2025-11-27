@@ -20,23 +20,24 @@ Valor de Δ Natureza do sistema
 
 int main()
 {
-    int minutos1, segundos1;
-    int minutos2, segundos2;
+    float a, b, c;
     
-    printf("Digite o valor de minutos e segundos do piloto 1: ");
-    scanf("%d%d", &minutos1, &segundos1);
-    printf("Digite o valor de minutos e segundos do piloto 2: ");
-    scanf("%d%d", &minutos2, &segundos2);
+    printf("Digite os valores dos coeficientes a, b e c: ");
+    scanf("%f%f%f", &a, &b, &c);
     
-    int temp1 = minutos1*60 + segundos1;
-    int temp2 = minutos2*60 + segundos2;
+    float delta = b*b-4*a*c;
     
-    if (temp1 > temp2) {
-        printf("o piloto 2 foi mais rapido.\n");
-    } else if (temp1 < temp2) {
-        printf("O piloto 1 foi mais rapido.\n");
+    if (a == 0) {
+        printf("O valor de 'a' deve ser diferente de zero.\n");
+        return 0
+    }
+    
+    if (delta == 0) {
+        printf("Sistema criticamente amortecido\n");
+    } else if (delta < 0) {
+        printf("Sistema sub-amortecido\n");
     } else {
-        printf("Empataram.\n");
+        printf("Sistema sobre-amortecido\n");
     }
     
     return 0;

@@ -10,9 +10,13 @@ O sistema deve:
 - Simular a movimentação exibindo a posição a cada segundo, do tempo 0 até o tempo final
 
 Exemplo:
+
 tempo: 0s -> posição: 0m
+
 tempo: 1s -> posição: Xm
+
 (...)
+
 ```c
 #include <stdio.h>
 

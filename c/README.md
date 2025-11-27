@@ -16,6 +16,6 @@ Aqui você encontrará exercícios envolvendo:
 
 | Avaliações | Simulados | Exercicios |
 |---|---|---|
-| [**1° avaliação**](./avaliacoes/avaliacao1/) | [**Simulado 1**](./simulados/simulado1/README.md) | [**Exercicios**](./exercicios/README.md) |
+| [**1° avaliação**](./avaliacoes/avaliacao1/README.md) | [**Simulado 1**](./simulados/simulado1/README.md) | [**Exercicios**](./exercicios/README.md) |
 | [**2° avaliação**](./avaliacoes/avaliacao2/README.md) | [**Simulado 2**](./simulados/simulado2/README.md) | [**Exercicios**](./exercicios/README.md) |
 
