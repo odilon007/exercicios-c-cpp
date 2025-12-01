@@ -14,7 +14,7 @@ Dica: Divida o raciocínio em partes. Primeiro, perceba que o denominador aument
 sequência de 2 em 2). Alterne depois o sinal (positivo, negativo), o que pode ser feito
 multiplicando uma variável de sinal por -1 a cada iteração. Por fim, multiplique o resultado
 por 4.
-### C99
+### C23
 ```c
 #include <stdio.h>
 #include <stdlib.h>

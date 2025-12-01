@@ -15,7 +15,7 @@ média, 3 = chave grande).
 - 10 ≤ T ≤ 25: “Torque adequado.”
 - T > 25: “Torque excessivo – risco de dano!”
 Escreva um programa em C que implementa esta lógica.
-### C99
+### C23
 ```c
 #include <stdio.h>
 #include <stdlib.h>

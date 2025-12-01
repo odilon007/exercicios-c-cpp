@@ -9,7 +9,7 @@ Faça um programa que:
 • Exiba “Risco crítico – desligar” se T > 110;
 3. Conte quantas medições caíram em cada categoria;
 4. Ao final, exiba o resumo das classificações.
-### C99
+### C23
 ```c
 #include <stdio.h>
 #include <stdlib.h>

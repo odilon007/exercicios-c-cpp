@@ -10,7 +10,7 @@ Crie um programa em C que:
 - o quantas ficaram acima e quantas abaixo;
 - Calcule a média da vazão registrada;
 - Exiba também a maior e a menor vazão medidas.
-### C99
+### C23
 ```c
 #include <stdio.h>
 #include <stdlib.h>
