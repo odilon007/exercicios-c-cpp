@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-#define N 9
+#define N 10
+
 int main()
 {
     int vetor[N];
